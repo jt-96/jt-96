@@ -1,4 +1,4 @@
-- 👋 Hola, soy Jonathan Torrico, un desarrollador web junior de Mendoza, Argentina.
+- 👋 Hola, soy Jonathan Torrico, un Desarrollador Web Junior de Mendoza, Argentina.
 - 👀 Mis intereses son todo lo relacionado con la Informática, Programación y Gaming. 
 - 🌱 Actualmente estoy aprendiendo React, y planeando aprender más adelante otros frameworks como Angular o Vue.
 
