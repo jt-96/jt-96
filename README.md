@@ -1,6 +1,6 @@
 - 👋 Hola, soy Jonathan Torrico, un Desarrollador Web Junior de Mendoza, Argentina.
 - 👀 Mis intereses son todo lo relacionado con la Informática, Programación y Gaming. 
-- 🌱 Actualmente estoy aprendiendo Bootstrap y planeo adentrarme mas en MERN Stack.
+- 🌱 Actualmente estoy aprendiendo Backend con Node y planeo adentrarme mas en MERN Stack.
 
 Gracias por visitar mi Perfil!
 
@@ -8,7 +8,7 @@ Gracias por visitar mi Perfil!
 
 - 👋 Hi, I’m Jonathan Torrico, a Junior Web Developer from Mendoza, Argentina.
 - 👀 I’m interested in everything related to Computers, Programming and Gaming. 
-- 🌱 I’m currently learning Bootstrap and planning to get more in-depth with MERN Stack.
+- 🌱 I’m currently learning backend with Node and planning to get more in-depth with MERN Stack.
 
 Thank you for checking my Profile!
 
