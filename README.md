@@ -1,15 +1,28 @@
-- 👋 Hola, soy Jonathan Torrico, un Desarrollador Web Junior de Mendoza, Argentina.
-- 👀 Mis intereses son todo lo relacionado con la Informática, Programación y Gaming. 
-- 🌱 Actualmente estoy aprendiendo Backend con Node y planeo adentrarme mas en MERN Stack.
+# 👋 Hello! 👋
 
-Gracias por visitar mi Perfil!
+I’m Jonathan Torrico, a Junior Web Developer from Mendoza, Argentina.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I stated learning about software development around 6 years ago, at the time I was interested in Game Development.
 
-- 👋 Hi, I’m Jonathan Torrico, a Junior Web Developer from Mendoza, Argentina.
-- 👀 I’m interested in everything related to Computers, Programming and Gaming. 
-- 🌱 I’m currently learning backend with Node and planning to get more in-depth with MERN Stack.
+Since then, I decided that I wanted to be a web developer, so here I am, currently learning to become a Full-Stack Developer!
 
+## What am I up to now?
+
+  - Learning, as always.
+  - Checking out Backend with Node.
+  - Practicing Frontend developing more Mockups.
+
+## What do I plan to do in the future?
+ 
+  - Study more about Frontend, specifically JS and React.
+  - Make my portfolio.
+  - Get my hands on Databases, starting with MongoDB.
+
+<!-- ## Technologies:
+
+![asd](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#E34F26" d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>)
+
+ -->
 Thank you for checking my Profile!
 
 <!---
