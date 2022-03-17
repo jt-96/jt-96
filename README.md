@@ -2,21 +2,20 @@
 
 I’m Jonathan Torrico, a Junior Web Developer from Mendoza, Argentina.
 
-I stated learning about software development around 6 years ago, at the time I was interested in Game Development.
+I started learning about software development around 6 years ago, at the time I was interested in Game Development.
 
-Since then, I decided that I wanted to be a web developer, so here I am, currently learning to become a Full-Stack Developer!
+After college, I decided that I wanted to be a web developer, so here I am, currently learning to become a Full-Stack Developer!
 
 ## What am I up to now?
 
   - Learning, as always.
-  - Checking out Backend with Node.
-  - Practicing Frontend developing more Mockups.
+  - Getting my hands on React.
+  - Thinking about new project ideas.
 
 ## What do I plan to do in the future?
- 
-  - Study more about Frontend, specifically JS and React.
+
   - Make my portfolio.
-  - Get my hands on Databases, starting with MongoDB.
+  - Learn more about my current skillset.
 
 <!-- ## Technologies:
 
