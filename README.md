@@ -14,7 +14,6 @@ After college, I decided that I wanted to be a web developer, so here I am, curr
 
 ## What do I plan to do in the future?
 
-  - Make my portfolio.
   - Learn more about my current skillset.
 
 <!-- ## Technologies:
