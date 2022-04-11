@@ -9,7 +9,7 @@ After college, I decided that I wanted to be a web developer, so here I am, curr
 ## What am I up to now?
 
   - Learning, as always.
-  - Getting my hands on React.
+  - Deep diving in React.
   - Thinking about new project ideas.
 
 ## What do I plan to do in the future?
