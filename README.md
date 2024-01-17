@@ -44,6 +44,11 @@ After college, I decided that I wanted to be a web developer, so here I am, tryi
   - Update my portfolio.
   - Make new projects.
 
+## Personal Links
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonathan-torrico)
+![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&link=https://jt-96.github.io/portfolio/)
+
 Thank you for checking my Profile!
 
 <!---
