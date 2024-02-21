@@ -36,13 +36,13 @@ After college, I decided that I wanted to be a web developer, so here I am, tryi
 
 ## What am I up to now?
 
-  - Slowly coming back to code new projects and stuff...
+  - Fixing deploys on some old projects...
+  - Looking for a Job.
 
 ## What do I plan to do in the near future?
 
-  - Redeploy some projects...
-  - Update my portfolio.
   - Make new projects.
+  - Portfolio 2.0 (soon I hope).
 
 ## Personal Links
 
