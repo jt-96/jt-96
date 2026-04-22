@@ -36,12 +36,8 @@ After college, I decided that I wanted to be a web developer, so here I am, tryi
 
 ## What am I up to now?
 
-  - Looking for a Job.
-  - Checking out Webflow.
-
-## What do I plan to do in the near future?
-
-  - Make new projects.
+  - Learning about Web Pentesting.
+  - Looking for a Job, either as a Web Developer or Pentester.
 
 ## Personal Links
 
