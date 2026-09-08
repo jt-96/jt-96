@@ -2,9 +2,11 @@
 
 I’m Jonathan Torrico, a Junior Web Developer from Mendoza, Argentina.
 
-I started learning about software development around 6 years ago, at the time I was interested in Game Development.
+I started learning about software development around 2016, at the time I was interested in Game Development.
 
-After college, I decided that I wanted to be a web developer, so here I am, trying to learn new things to improve my skills as a Full-Stack Dev!
+After college, I decided that I wanted to be a web developer and managed a couple of experiences applying my skills at the time!
+
+Now I'm expanding my capabilities, learning about Pentesting, Automation, and Agentic Development.
 
 ## Current Tech Stack / Things I've used to make things:
 
@@ -36,8 +38,7 @@ After college, I decided that I wanted to be a web developer, so here I am, tryi
 
 ## What am I up to now?
 
-  - Learning about Web Pentesting.
-  - Looking for a Job, either as a Web Developer or Pentester.
+  - Currently looking for new opportunities!
 
 ## Personal Links
 
